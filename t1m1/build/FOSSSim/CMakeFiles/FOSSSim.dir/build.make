@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kapil/Downloads/t1m1
+CMAKE_SOURCE_DIR = /home/kapil/Documents/Courses/CSMM.104x/t1m1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kapil/Downloads/t1m1/build
+CMAKE_BINARY_DIR = /home/kapil/Documents/Courses/CSMM.104x/t1m1/build
 
 # Include any dependencies generated for this target.
 include FOSSSim/CMakeFiles/FOSSSim.dir/depend.make
@@ -59,16 +59,16 @@ include FOSSSim/CMakeFiles/FOSSSim.dir/flags.make
 
 FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o: FOSSSim/CMakeFiles/FOSSSim.dir/flags.make
 FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o: ../FOSSSim/SimpleGravityForce.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kapil/Downloads/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o -c /home/kapil/Downloads/t1m1/FOSSSim/SimpleGravityForce.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o"
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o -c /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/SimpleGravityForce.cpp
 
 FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.i"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kapil/Downloads/t1m1/FOSSSim/SimpleGravityForce.cpp > CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.i
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/SimpleGravityForce.cpp > CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.i
 
 FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.s"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kapil/Downloads/t1m1/FOSSSim/SimpleGravityForce.cpp -o CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.s
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/SimpleGravityForce.cpp -o CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.s
 
 FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o.requires:
 
@@ -83,16 +83,16 @@ FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o.provides.build: FOSSSim/
 
 FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o: FOSSSim/CMakeFiles/FOSSSim.dir/flags.make
 FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o: ../FOSSSim/ExplicitEuler.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kapil/Downloads/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o -c /home/kapil/Downloads/t1m1/FOSSSim/ExplicitEuler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o"
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o -c /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/ExplicitEuler.cpp
 
 FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.i"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kapil/Downloads/t1m1/FOSSSim/ExplicitEuler.cpp > CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.i
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/ExplicitEuler.cpp > CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.i
 
 FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.s"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kapil/Downloads/t1m1/FOSSSim/ExplicitEuler.cpp -o CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.s
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/ExplicitEuler.cpp -o CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.s
 
 FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o.requires:
 
@@ -107,16 +107,16 @@ FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o.provides.build: FOSSSim/CMake
 
 FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o: FOSSSim/CMakeFiles/FOSSSim.dir/flags.make
 FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o: ../FOSSSim/TwoDScene.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kapil/Downloads/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o -c /home/kapil/Downloads/t1m1/FOSSSim/TwoDScene.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o"
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o -c /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/TwoDScene.cpp
 
 FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FOSSSim.dir/TwoDScene.cpp.i"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kapil/Downloads/t1m1/FOSSSim/TwoDScene.cpp > CMakeFiles/FOSSSim.dir/TwoDScene.cpp.i
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/TwoDScene.cpp > CMakeFiles/FOSSSim.dir/TwoDScene.cpp.i
 
 FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FOSSSim.dir/TwoDScene.cpp.s"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kapil/Downloads/t1m1/FOSSSim/TwoDScene.cpp -o CMakeFiles/FOSSSim.dir/TwoDScene.cpp.s
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/TwoDScene.cpp -o CMakeFiles/FOSSSim.dir/TwoDScene.cpp.s
 
 FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o.requires:
 
@@ -149,8 +149,8 @@ FOSSSim/FOSSSim: /usr/lib/x86_64-linux-gnu/libglut.so
 FOSSSim/FOSSSim: /usr/lib/x86_64-linux-gnu/libpng.so
 FOSSSim/FOSSSim: /usr/lib/x86_64-linux-gnu/libz.so
 FOSSSim/FOSSSim: FOSSSim/CMakeFiles/FOSSSim.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kapil/Downloads/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable FOSSSim"
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/FOSSSim.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable FOSSSim"
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/FOSSSim.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 FOSSSim/CMakeFiles/FOSSSim.dir/build: FOSSSim/FOSSSim
@@ -164,10 +164,10 @@ FOSSSim/CMakeFiles/FOSSSim.dir/requires: FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScen
 .PHONY : FOSSSim/CMakeFiles/FOSSSim.dir/requires
 
 FOSSSim/CMakeFiles/FOSSSim.dir/clean:
-	cd /home/kapil/Downloads/t1m1/build/FOSSSim && $(CMAKE_COMMAND) -P CMakeFiles/FOSSSim.dir/cmake_clean.cmake
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim && $(CMAKE_COMMAND) -P CMakeFiles/FOSSSim.dir/cmake_clean.cmake
 .PHONY : FOSSSim/CMakeFiles/FOSSSim.dir/clean
 
 FOSSSim/CMakeFiles/FOSSSim.dir/depend:
-	cd /home/kapil/Downloads/t1m1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kapil/Downloads/t1m1 /home/kapil/Downloads/t1m1/FOSSSim /home/kapil/Downloads/t1m1/build /home/kapil/Downloads/t1m1/build/FOSSSim /home/kapil/Downloads/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kapil/Documents/Courses/CSMM.104x/t1m1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kapil/Documents/Courses/CSMM.104x/t1m1 /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim /home/kapil/Documents/Courses/CSMM.104x/t1m1/build /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim /home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : FOSSSim/CMakeFiles/FOSSSim.dir/depend
 

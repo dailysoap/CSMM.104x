@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kapil/Downloads/t1m1/FOSSSim/ExplicitEuler.cpp" "/home/kapil/Downloads/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o"
-  "/home/kapil/Downloads/t1m1/FOSSSim/SimpleGravityForce.cpp" "/home/kapil/Downloads/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o"
-  "/home/kapil/Downloads/t1m1/FOSSSim/TwoDScene.cpp" "/home/kapil/Downloads/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o"
+  "/home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/ExplicitEuler.cpp" "/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o"
+  "/home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/SimpleGravityForce.cpp" "/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o"
+  "/home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim/TwoDScene.cpp" "/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim/CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

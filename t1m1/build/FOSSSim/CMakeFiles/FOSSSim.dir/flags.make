@@ -6,5 +6,5 @@ CXX_FLAGS =  -Wall -Wextra -Wno-unused -g
 
 CXX_DEFINES = -DCMAKE_BUILD_TYPE=\"Debug\" -DDEBUG -DEIGEN_DONT_ALIGN -DEIGEN_DONT_VECTORIZE -DFOSSSIM_VERSION="\"Fall 2010 v.A\""
 
-CXX_INCLUDES = -I/usr/include/eigen3 -I/home/kapil/Downloads/t1m1 -I/home/kapil/Downloads/t1m1/include/rapidxml -I/home/kapil/Downloads/t1m1/include 
+CXX_INCLUDES = -I/usr/include/eigen3 -I/home/kapil/Documents/Courses/CSMM.104x/t1m1 -I/home/kapil/Documents/Courses/CSMM.104x/t1m1/include/rapidxml -I/home/kapil/Documents/Courses/CSMM.104x/t1m1/include 
 

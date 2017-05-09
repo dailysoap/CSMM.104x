@@ -1,8 +1,8 @@
-# Install script for directory: /home/kapil/Downloads/t1m1/FOSSSim
+# Install script for directory: /home/kapil/Documents/Courses/CSMM.104x/t1m1/FOSSSim
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/kapil/Downloads/t1m1/install")
+  set(CMAKE_INSTALL_PREFIX "/home/kapil/Documents/Courses/CSMM.104x/t1m1/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/FOSSSim"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/kapil/Downloads/t1m1/build/FOSSSim/FOSSSim")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/kapil/Documents/Courses/CSMM.104x/t1m1/build/FOSSSim/FOSSSim")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/FOSSSim" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/FOSSSim")
     if(CMAKE_INSTALL_DO_STRIP)
